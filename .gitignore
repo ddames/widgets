@@ -11,6 +11,9 @@
 # production
 /build
 
+# protected
+/components/Convert.js
+
 # misc
 .DS_Store
 .env.local
