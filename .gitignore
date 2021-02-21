@@ -12,7 +12,7 @@
 /build
 
 # protected
-/components/Convert.js
+src/components/Convert.js
 
 # misc
 .DS_Store
