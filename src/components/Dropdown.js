@@ -35,8 +35,6 @@ const Dropdown = ({ label, options, selected, onSelectedChange }) => {
     );
   });
 
-  console.log(ref.current);
-
   return (
     <div className="ui form">
       <div className="field">
